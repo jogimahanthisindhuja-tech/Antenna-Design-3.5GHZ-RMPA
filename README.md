@@ -74,16 +74,14 @@ The antenna is designed using an **FR-4 substrate** and simulated using Ansys HF
 
 ##  Results
 
-- ✔ Resonant frequency achieved at **3.5 GHz**
-- ✔ Return Loss below **-10 dB**
-- ✔ VSWR close to **1**
-- ✔ Suitable bandwidth for wireless applications
-- ✔ Good radiation pattern and gain
+-  Resonant frequency achieved at **3.5 GHz**
+-  Return Loss below **-10 dB**
+-  VSWR close to **1**
+-  Suitable bandwidth for wireless applications
+-  Good radiation pattern and gain
 
 
 
 
 
-## 📌 Notes
-- Simulation files may be large; only essential files are included
-- Results are based on simulation using HFSS
+
