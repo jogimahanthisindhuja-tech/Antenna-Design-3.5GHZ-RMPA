@@ -21,12 +21,12 @@ The antenna is designed using an **FR-4 substrate** and simulated using Ansys HF
   - Gain and Directivity  
   - Radiation Pattern  
 
-
+---
 
 ##  Tools & Technologies
 - Ansys HFSS (High Frequency Structure Simulator)
 - Ansys Electronics Desktop (AEDT)
-
+---
 
 
 ##  Design Specifications
@@ -70,7 +70,7 @@ The antenna is designed using an **FR-4 substrate** and simulated using Ansys HF
 - Gain and Directivity
 - Radiation Pattern
 
-
+---
 
 ##  Results
 
