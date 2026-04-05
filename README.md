@@ -7,7 +7,7 @@ This project focuses on the **design, simulation, and analysis** of a **Rectangu
 
 The antenna is designed using an **FR-4 substrate** and simulated using Ansys HFSS to evaluate key performance parameters such as return loss, VSWR, bandwidth, and radiation characteristics.
 
----
+
 
 ##  Objectives
 - Design a rectangular microstrip patch antenna for **3.5 GHz**
@@ -21,13 +21,13 @@ The antenna is designed using an **FR-4 substrate** and simulated using Ansys HF
   - Gain and Directivity  
   - Radiation Pattern  
 
----
+
 
 ##  Tools & Technologies
 - Ansys HFSS (High Frequency Structure Simulator)
 - Ansys Electronics Desktop (AEDT)
 
----
+
 
 ##  Design Specifications
 
